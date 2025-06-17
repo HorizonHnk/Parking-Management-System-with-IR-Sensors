@@ -7,7 +7,6 @@
 
 > **A smart parking slot counter system that automatically tracks the number of available parking spaces using IR sensors and displays the count on seven-segment displays.**
 
-![Parking System Demo](https://via.placeholder.com/800x400/2196F3/ffffff?text=Parking+Management+System+Demo)
 
 ---
 
